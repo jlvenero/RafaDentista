@@ -19,21 +19,21 @@ export const tratamentosData = [
     categoria: "Especialidade",
     titulo: "Implantes Dentários",
     descricao: "Reabilitação completa com implantes de última geração...",
-    imagem: "../../public/ImplanteDentario.jpg"
+    imagem: "/ImplanteDentario.jpg"
   },
   {
     id: 2,
     categoria: "Estética",
     titulo: "Lentes de Contato Dental",
     descricao: "Facetas ultrafinas em porcelana que transformam a harmonia do sorriso com mínimo desgaste dental e resultado natural.",
-    imagem: "../../public/lenteDental.jpg"
+    imagem: "/lenteDental.jpg"
   },
   {
     id: 3,
     categoria: "Design",
     titulo: "Harmonização do Sorriso",
     descricao: "Design de sorriso personalizado integrando clareamento, contorno gengival e restaurações para um resultado que respeita sua identidade.",
-    imagem: "../../public/sorriso.jpg"
+    imagem: "/sorriso.jpg"
   }
   // ... copie o restante dos objetos do seu LandingPage.tsx original
 ];

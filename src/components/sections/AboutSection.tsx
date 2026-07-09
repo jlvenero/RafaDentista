@@ -20,7 +20,7 @@ export function AboutSection() {
               <div className="relative h-[600px] w-full rounded-3xl overflow-hidden">
                 {/* Substitua o src pela foto do consultório */}
                 <img
-                  src="../../public/cadeiraClinica.jpg"
+                  src="/cadeiraClinica.jpg"
                   alt="Consultório Dr. Rafael Monteiro"
                   className="absolute inset-0 w-full h-full object-cover"
                 />
