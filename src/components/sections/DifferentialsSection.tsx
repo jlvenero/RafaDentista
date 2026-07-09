@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { diferenciaisData } from '../../constants/data';
 import { fadeInUp, staggerContainer } from '../../utils/animations';
