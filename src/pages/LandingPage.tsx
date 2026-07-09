@@ -1,12 +1,7 @@
-// src/pages/LandingPage.tsx
-import React from 'react';
-
-// Layout
 import { Header } from '../components/layout/Header';
 import { Footer } from '../components/layout/Footer';
 import { FloatingWhatsApp } from '../components/layout/FloatingWhatsApp';
 
-// Sections
 import { HeroSection } from '../components/sections/HeroSection';
 import { AboutSection } from '../components/sections/AboutSection';
 import { TreatmentsSection } from '../components/sections/TreatmentsSection';

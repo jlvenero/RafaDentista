@@ -1,4 +1,3 @@
-import React from 'react';
 import { AtSign, Phone, Mail, MapPin } from 'lucide-react';
 
 export function Footer() {
