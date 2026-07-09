@@ -53,7 +53,7 @@ export function HeroSection() {
           className="relative h-[60vh] md:h-[96vh] w-full rounded-[2rem] overflow-hidden md:mt-4"
         >
           <img
-            src="../../public/drRafa.jpg" // Lembre-se de usar o caminho correto da sua imagem
+            src="/drRafa.jpg" // Lembre-se de usar o caminho correto da sua imagem
             alt="Dr. Rafael Monteiro"
             className="absolute inset-0 w-full h-full object-cover object-top"
           />

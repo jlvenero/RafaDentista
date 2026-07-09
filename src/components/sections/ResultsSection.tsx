@@ -34,7 +34,7 @@ export function ResultsSection() {
                 >
                   {/* Imagem de Fundo (DEPOIS) */}
                   <img
-                    src="../../public/sorriB.png"
+                    src="/sorriB.png"
                     alt="Resultado Após Tratamento"
                     className="absolute inset-0 w-full h-full object-cover object-center"
                   />
@@ -46,7 +46,7 @@ export function ResultsSection() {
                   >
                     {/* Opcional: Adicione a classe 'grayscale' abaixo se quiser o antes em preto e branco como no design */}
                     <img
-                      src="../../public/sorriF.png"
+                      src="/sorriF.png"
                       alt="Condição Inicial"
                       className="absolute inset-0 w-full h-full object-cover object-center grayscale"
                     />
